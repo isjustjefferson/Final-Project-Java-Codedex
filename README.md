@@ -1,4 +1,4 @@
-# ☕ Final Project: Codédex Java
+# Final Project: Codédex Java
 
 Este é o projeto final da trilha de Java da plataforma **Codédex**. O objetivo deste desafio foi aplicar os fundamentos da linguagem, com foco em lógica estruturada e nos pilares da Programação Orientada a Objetos (POO).
 
